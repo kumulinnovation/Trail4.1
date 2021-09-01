@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "740508912935",
+    "firebase_url": "https://shuttleme004-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "shuttleme004",
+    "storage_bucket": "shuttleme004.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740508912935:android:c66a6ca3b7ed40054aed02",
+        "android_client_info": {
+          "package_name": "com.kumulinovations.trail004"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740508912935-08360kb38h34qprfe9ufjo6u2f6f2ff6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kumulinovations.trail004",
+            "certificate_hash": "0176af3a5899256a99d53aa9612f5890d3a11f02"
+          }
+        },
+        {
+          "client_id": "740508912935-6evvlvguc7620sogv6a73rc4om8pgqpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIfLwzIdcLMY2c55OQCqsy7o9MsfrbE6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740508912935-6evvlvguc7620sogv6a73rc4om8pgqpg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
