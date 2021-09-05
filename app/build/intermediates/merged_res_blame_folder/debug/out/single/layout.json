@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\valuk\\AndroidStudioProjects\\Trail004\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_map.xml",
+        "source": "C:\\Users\\valuk\\AndroidStudioProjects\\Trail004\\app\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\valuk\\AndroidStudioProjects\\Trail004\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_driver_map.xml",
+        "source": "C:\\Users\\valuk\\AndroidStudioProjects\\Trail004\\app\\src\\main\\res\\layout\\activity_driver_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\valuk\\AndroidStudioProjects\\Trail004\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_driver_login.xml",
+        "source": "C:\\Users\\valuk\\AndroidStudioProjects\\Trail004\\app\\src\\main\\res\\layout\\activity_driver_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\valuk\\AndroidStudioProjects\\Trail004\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\valuk\\AndroidStudioProjects\\Trail004\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\valuk\\AndroidStudioProjects\\Trail004\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_customer_login.xml",
+        "source": "C:\\Users\\valuk\\AndroidStudioProjects\\Trail004\\app\\src\\main\\res\\layout\\activity_customer_login.xml"
+    }
+]
