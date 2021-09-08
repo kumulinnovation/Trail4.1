@@ -1,14 +1,13 @@
-com/kumulinovations/trail004/DriverLoginActivity.java
- com.kumulinovations.trail004.DriverLoginActivity
- com.kumulinovations.trail004.DriverLoginActivity$1
- com.kumulinovations.trail004.DriverLoginActivity$2
- com.kumulinovations.trail004.DriverLoginActivity$2$1
- com.kumulinovations.trail004.DriverLoginActivity$3
- com.kumulinovations.trail004.DriverLoginActivity$3$1
+com/kumulinovations/trail004/databinding/ActivityMainBinding.java
+ com.kumulinovations.trail004.databinding.ActivityMainBinding
 com/kumulinovations/trail004/BuildConfig.java
  com.kumulinovations.trail004.BuildConfig
-com/kumulinovations/trail004/DriverMapActivity.java
- com.kumulinovations.trail004.DriverMapActivity
+com/kumulinovations/trail004/databinding/ActivityCustomerMapBinding.java
+ com.kumulinovations.trail004.databinding.ActivityCustomerMapBinding
+com/kumulinovations/trail004/databinding/ActivityDriverLoginBinding.java
+ com.kumulinovations.trail004.databinding.ActivityDriverLoginBinding
+com/kumulinovations/trail004/databinding/ActivityCustomerLoginBinding.java
+ com.kumulinovations.trail004.databinding.ActivityCustomerLoginBinding
 com/kumulinovations/trail004/MainActivity.java
  com.kumulinovations.trail004.MainActivity
  com.kumulinovations.trail004.MainActivity$1
@@ -17,12 +16,25 @@ com/kumulinovations/trail004/databinding/ActivityDriverMapBinding.java
  com.kumulinovations.trail004.databinding.ActivityDriverMapBinding
 com/kumulinovations/trail004/databinding/ActivityMapBinding.java
  com.kumulinovations.trail004.databinding.ActivityMapBinding
-com/kumulinovations/trail004/MapActivity.java
- com.kumulinovations.trail004.MapActivity
-com/kumulinovations/trail004/databinding/ActivityDriverLoginBinding.java
- com.kumulinovations.trail004.databinding.ActivityDriverLoginBinding
-com/kumulinovations/trail004/databinding/ActivityCustomerLoginBinding.java
- com.kumulinovations.trail004.databinding.ActivityCustomerLoginBinding
+com/kumulinovations/trail004/DriverLoginActivity.java
+ com.kumulinovations.trail004.DriverLoginActivity
+ com.kumulinovations.trail004.DriverLoginActivity$1
+ com.kumulinovations.trail004.DriverLoginActivity$2
+ com.kumulinovations.trail004.DriverLoginActivity$2$1
+ com.kumulinovations.trail004.DriverLoginActivity$3
+ com.kumulinovations.trail004.DriverLoginActivity$3$1
+com/kumulinovations/trail004/DriverMapActivity.java
+ com.kumulinovations.trail004.DriverMapActivity
+ com.kumulinovations.trail004.DriverMapActivity$1
+ com.kumulinovations.trail004.DriverMapActivity$2
+ com.kumulinovations.trail004.DriverMapActivity$3
+com/kumulinovations/trail004/CustomerMapActivity.java
+ com.kumulinovations.trail004.CustomerMapActivity
+ com.kumulinovations.trail004.CustomerMapActivity$1
+ com.kumulinovations.trail004.CustomerMapActivity$2
+ com.kumulinovations.trail004.CustomerMapActivity$3
+ com.kumulinovations.trail004.CustomerMapActivity$4
+ com.kumulinovations.trail004.CustomerMapActivity$5
 com/kumulinovations/trail004/CustomerLoginActivity.java
  com.kumulinovations.trail004.CustomerLoginActivity
  com.kumulinovations.trail004.CustomerLoginActivity$1
@@ -30,5 +42,3 @@ com/kumulinovations/trail004/CustomerLoginActivity.java
  com.kumulinovations.trail004.CustomerLoginActivity$2$1
  com.kumulinovations.trail004.CustomerLoginActivity$3
  com.kumulinovations.trail004.CustomerLoginActivity$3$1
-com/kumulinovations/trail004/databinding/ActivityMainBinding.java
- com.kumulinovations.trail004.databinding.ActivityMainBinding

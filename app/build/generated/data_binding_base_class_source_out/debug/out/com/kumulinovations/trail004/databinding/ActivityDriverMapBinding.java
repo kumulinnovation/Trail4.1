@@ -4,24 +4,31 @@ package com.kumulinovations.trail004.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
+import android.widget.FrameLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.viewbinding.ViewBinding;
 import com.kumulinovations.trail004.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
+import java.lang.String;
 
 public final class ActivityDriverMapBinding implements ViewBinding {
   @NonNull
-  private final View rootView;
+  private final FrameLayout rootView;
 
-  private ActivityDriverMapBinding(@NonNull View rootView) {
+  @NonNull
+  public final Button logout;
+
+  private ActivityDriverMapBinding(@NonNull FrameLayout rootView, @NonNull Button logout) {
     this.rootView = rootView;
+    this.logout = logout;
   }
 
   @Override
   @NonNull
-  public View getRoot() {
+  public FrameLayout getRoot() {
     return rootView;
   }
 
@@ -42,10 +49,19 @@ public final class ActivityDriverMapBinding implements ViewBinding {
 
   @NonNull
   public static ActivityDriverMapBinding bind(@NonNull View rootView) {
-    if (rootView == null) {
-      throw new NullPointerException("rootView");
-    }
+    // The body of this method is generated in a way you would not otherwise write.
+    // This is done to optimize the compiled bytecode for size and performance.
+    int id;
+    missingId: {
+      id = R.id.logout;
+      Button logout = rootView.findViewById(id);
+      if (logout == null) {
+        break missingId;
+      }
 
-    return new ActivityDriverMapBinding(rootView);
+      return new ActivityDriverMapBinding((FrameLayout) rootView, logout);
+    }
+    String missingId = rootView.getResources().getResourceName(id);
+    throw new NullPointerException("Missing required view with ID: ".concat(missingId));
   }
 }

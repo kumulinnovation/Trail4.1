@@ -2137,6 +2137,7 @@ id linear
 id listMode
 id list_item
 id login
+id logout
 id map
 id masked
 id match_constraint
@@ -2236,6 +2237,7 @@ id radio
 id ratio
 id rectangles
 id registration
+id request
 id reverseSawtooth
 id right
 id rightToLeft
@@ -2448,6 +2450,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_customer_login
+layout activity_customer_map
 layout activity_driver_login
 layout activity_driver_map
 layout activity_main
